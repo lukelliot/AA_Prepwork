@@ -1,0 +1,7 @@
+
+What would you like to do?
+ >> (n)ew game
+ >> (h)ow to play
+ >> (q)uit game
+
+Type the corresponding letter and press ENTER.

@@ -1,0 +1,4 @@
+
+The compound's security is comprised of a series of locks, each
+of which can be bypassed with a sequence of numbers; each number
+is between one (1) and six (6).

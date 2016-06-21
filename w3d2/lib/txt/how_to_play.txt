@@ -1,0 +1,13 @@
+
+[1] There are three codes to be broken.
+[2] Each code is a sequence of numbers. Each number in the sequence
+    can be any number between one (1) and six (6).
+[3] You will be allotted a number of attempts to correctly each code.
+[4] Two types of matches will be returned after each attempt:
+    (1) Perfect Match -> matches position and digit in the 'Lock Code'
+    (2) Near Match -> matches digit at different position of 'Lock Code'
+[5] Failure to break the code in the allotted number of attempts will
+    result in your loss.
+[6] There is a game timer set for 5 minutes (+/- 10 seconds). Failure
+    to correctly guess all three codes in that time will result in your
+    loss.

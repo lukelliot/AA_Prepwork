@@ -1,0 +1,5 @@
+
+Ahead of you is a door. It should read 'AUTHORIZED PERSONNEL'.
+A simple 3-combination lock.
+
+Easy, right?

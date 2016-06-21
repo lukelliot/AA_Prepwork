@@ -1,0 +1,15 @@
+
+Excellent!
+
+By the way, there are two caveats to this operation...
+    [1] The number of attempts that the device will allow you
+        to make decreases as the difficulty of the lock
+        increases.
+    [2] The compound is heavily guarded by enemy forces. We
+        will disable their security cameras, but that still
+        leaves you with only ~5 minutes before your
+        situation becomes... untenable.
+
+Failing to break the lock in the allotted number of attempts
+or the allotted time will result in triggering the alarm, and
+very likely your capture.
